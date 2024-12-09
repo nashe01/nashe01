@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nashe01
-- 👀 I’m interested in full stack software developer
+- 👀 I’m interested in full stack software developement
 - 🌱 I’m currently learning node.js and its frameworks for both frontend and backend(express.js/react native)
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 How to reach me mupindu021@gmail.com
