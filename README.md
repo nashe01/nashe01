@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nashe01
 - 👀 I’m interested in full stack software developement
-- 🌱 I’m currently learning node.js and its frameworks for both frontend and backend(express.js/react native)
-- 💞️ I’m looking to collaborate on mobile apps
+- 🌱 I’m currently learning node.js and its frameworks for both frontend(vite + react/react native)
+- 💞️ I’m looking to collaborate on mobile apps and web apps
 - 📫 How to reach me mupindu021@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
