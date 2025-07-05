@@ -59,19 +59,12 @@ I’m always open to networking and collaboration opportunities. You can reach m
 <br/><br/><br/>
 </div>
 <hr/>
- <h2>🏆 Digital Badges 🏆 </h2>
-<a href="https://www.credly.com/badges/46e4232b-a206-49bd-a97e-86f211bdb916/public_url" target="blank">
-  <img src="https://i.postimg.cc/r0204G1n/network-addressing-and-basic-troubleshooting.png" alt="Google Badge" width="120" height="120">
-</a>
-
-
-
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nashe01&show_icons=true&count_private=true&hide_border=true&title_color=60a5fa&icon_color=2563eb&text_color=ffffff&bg_color=0d1117" alt="nashe01 GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tsakane28&count_private=true&hide_border=true&theme=react&background=0d1117" alt="tsakane28 Streak Stats" width="49%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nashe01&count_private=true&hide_border=true&theme=react&background=0d1117" alt="nashe01 Streak Stats" width="49%" />
 </div>
 
 <div align=center>
