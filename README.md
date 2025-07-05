@@ -31,9 +31,9 @@
 ## 📬 Contact
 I’m always open to networking and collaboration opportunities. You can reach me through:
 
-- WhatsApp: [Click here](https://wa.me/263714575733)
-- Instagram: [@tsaks28](https://instagram.com/slow_iearner27)
-- LinkedIn: [Tsakane Shiri](https://www.linkedin.com/in/Blessing-Mupindu)
+- WhatsApp: [BlessingPanashe](https://wa.me/263714575733)
+- Instagram: [@bleesing](https://instagram.com/slow_liearner_27)
+- LinkedIn: [Blessing P Mupindu](https://www.linkedin.com/in/Blessing-Mupindu)
 - Email: [mupindu021@gmail.com](mailto:mupindu021@gmail.com)
 
 <hr/>
@@ -64,9 +64,7 @@ I’m always open to networking and collaboration opportunities. You can reach m
   <img src="https://i.postimg.cc/r0204G1n/network-addressing-and-basic-troubleshooting.png" alt="Google Badge" width="120" height="120">
 </a>
 
-<a href="https://www.credly.com/badges/46e4232b-a206-49bd-a97e-86f211bdb916/public_url" target="blank">
-  <img src="https://i.postimg.cc/GTHChV4Z/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity Badge" width="120" height="120">
-</a>
+
 
 
 <!-- GitHub Stats Section -->
