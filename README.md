@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=firebase,postgresql,nodejs,python,typescript,express,flask,mysql,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=django,postgresql,nodejs,python,typescript,javascript,flask,mysql,docker" />
 </div>
 <br/>
 <hr/>
