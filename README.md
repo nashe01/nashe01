@@ -1,4 +1,5 @@
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/nashe01.svg?)](https://committers.top/zimbabwe_public/nashe01)
+[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/nashe01.svg)](https://committers.top/zimbabwe_public/nashe01)
+
 
 <div align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nashe01" />
