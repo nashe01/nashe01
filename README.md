@@ -1,19 +1,13 @@
-<div align="center">
-
-  <!-- Badges -->
-  <a href="https://user-badge.committers.top/zimbabwe_private/KumaloWilson" target="_blank">
-    <img src="https://img.shields.io/badge/🏆_%232_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=770677" alt="Top Committer Zimbabwe Badge"/>
+<div align="center">  
+  <!-- Committer Badge -->
+  <a href="https://user-badge.committers.top/zimbabwe_public/nashe01" target="_blank">
+    <img src="https://img.shields.io/badge/🏆_Top_Committer_In_Zimbabwe-green?style=for-the-badge&labelColor=0a192f" alt="Top Committer Zimbabwe Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=KumaloWilson&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="KumaloWilson" />
+
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=nashe01&label=Profile%20views&color=0a192f&style=for-the-badge&logo=star" alt="nashe01" />
 </div>
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/nashe01.svg?v=2)](https://user-badge.committers.top/zimbabwe_public/nashe01)
 
-
-
-
-<div align="center">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nashe01" />
-</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Blessing+P+Mupindu!;" />
