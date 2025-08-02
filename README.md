@@ -46,6 +46,8 @@
 - 🌐 **API Development**: Experienced in building and integrating RESTful APIs to enhance application functionality.
 
 <hr/>
+<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
+<br/>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
