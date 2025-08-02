@@ -1,9 +1,11 @@
-<div align="center">  
+<div align="left">  
   <!-- Dynamic link to your live rank -->
   <a href="https://committers.top/zimbabwe_public/nashe01" target="_blank">
     <img src="https://user-badge.committers.top/zimbabwe_public/nashe01.svg?v=2" alt="Top Committer Zimbabwe Badge" style="background-color:#50FA7B; border-radius:6px;" />
   </a>
+</div>
 
+<div align="left">
   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=nashe01&label=Profile%20views&color=50FA7B&style=for-the-badge&logo=star" alt="nashe01" />
 </div>
