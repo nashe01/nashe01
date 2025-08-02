@@ -9,9 +9,9 @@
       style="border-radius: 6px; height: 20px;" />
   </a>
 
-  <!-- Profile Views Badge (matching style) -->
+  <!-- Profile Views Badge (lime green #4AC51C) -->
   <img 
-    src="https://img.shields.io/badge/Profile%20Views-9-50FA7B?style=flat&logo=github&logoColor=white" 
+    src="https://img.shields.io/badge/Profile%20Views-9-4AC51C?style=flat&logo=github&logoColor=white" 
     alt="Profile Views" 
     style="border-radius: 6px; height: 20px;" />
 </div>
