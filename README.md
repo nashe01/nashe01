@@ -50,7 +50,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img align="right" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
+    <img align="center" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
   </picture>
 </div>
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
