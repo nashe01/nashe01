@@ -52,7 +52,7 @@
     <img align="center" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
   </picture>
   
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=django,postgresql,nodejs,python,typescript,javascript,flask,mysql,docker" />
 </div>
