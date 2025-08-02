@@ -52,13 +52,14 @@
     <img align="center" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
   </picture>
   
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=django,postgresql,nodejs,python,typescript,javascript,flask,mysql,docker" />
 </div>
 <br/>
 <hr/>
-
+</div>
+<div align="left">
 ## 📬 Contact
 I’m always open to networking and collaboration opportunities. You can reach me through:
 
