@@ -1,20 +1,21 @@
 
 
 <div align="left" style="display: flex; gap: 8px; align-items: center;">
-  <!-- Top Committer Zimbabwe Badge -->
+  <!-- Committers.top badge -->
   <a href="https://committers.top/zimbabwe_public/nashe01" target="_blank">
     <img 
       src="https://user-badge.committers.top/zimbabwe_public/nashe01.svg?v=2" 
-      alt="Top Committer Zimbabwe Badge" 
+      alt="Top Committer Zimbabwe Badge"
       style="border-radius: 6px; height: 20px;" />
   </a>
 
-  <!-- Profile Views Badge (lime green #4AC51C) -->
+  <!-- Styled visitor badge -->
   <img 
-    src="https://img.shields.io/badge/Profile%20Views-9-4AC51C?style=flat&logo=github&logoColor=white" 
-    alt="Profile Views" 
-    style="border-radius: 6px; height: 20px;" />
+    src="https://visitor-badge.laobi.icu/badge?page_id=nashe01" 
+    alt="Visitor Badge"
+    style="height: 20px; border-radius: 6px;" />
 </div>
+
 
 
 <h1 align="center">
