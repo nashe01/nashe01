@@ -8,8 +8,7 @@
 </div>
 
 <div align="left">
-  <!-- Profile Views Badge (matching style) -->
-  <img src="https://img.shields.io/badge/Profile%20Views-9-50FA7B?style=flat&logo=github&logoColor=white" alt="Profile Views" style="border-radius:6px;" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nashe01" />
 </div>
 
 
