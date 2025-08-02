@@ -1,16 +1,9 @@
 <div align="center">
-  <img src="./banner.jpeg" alt="KumaloWilson Banner Image" width="100%">
-  
-  <h3>
-    <code>🚀 Code Alchemist | Flutter Doctor | Innovation Architect 🚀</code>
-  </h3>
-  
-  <!-- Badges -->
-  <a href="https://user-badge.committers.top/zimbabwe_private/KumaloWilson" target="_blank">
-    <img src="https://img.shields.io/badge/🏆_%232_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=770677" alt="Top Committer Zimbabwe Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=KumaloWilson&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="KumaloWilson" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=django,postgresql,nodejs,python,typescript,javascript,flask,mysql,docker" />
 </div>
+<br/>
+<hr/>
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/nashe01.svg?v=2)](https://user-badge.committers.top/zimbabwe_public/nashe01)
 
 
@@ -60,7 +53,6 @@
     <img src="https://skillicons.dev/icons?i=django,postgresql,nodejs,python,typescript,javascript,flask,mysql,docker" />
 </div>
 <br/>
-<hr/>
 <hr/>
 
 ## 📬 Contact
