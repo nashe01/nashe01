@@ -55,8 +55,6 @@
     <img align="center" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
   </picture>
 </div>
-<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=django,postgresql,nodejs,python,typescript,javascript,flask,mysql,docker" />
