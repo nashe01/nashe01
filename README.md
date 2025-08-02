@@ -1,12 +1,13 @@
 <div align="center">  
   <!-- Committer Badge -->
   <a href="https://user-badge.committers.top/zimbabwe_public/nashe01" target="_blank">
-    <img src="https://img.shields.io/badge/🏆_Top_Committer_In_Zimbabwe-green?style=for-the-badge&labelColor=0a192f" alt="Top Committer Zimbabwe Badge"/>
+    <img src="https://img.shields.io/badge/🏆_Top_Committer_In_Zimbabwe-green?style=for-the-badge&labelColor=092E20&color=092E20" alt="Top Committer Zimbabwe Badge"/>
   </a>
 
   <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=nashe01&label=Profile%20views&color=0a192f&style=for-the-badge&logo=star" alt="nashe01" />
+  <img src="https://komarev.com/ghpvc/?username=nashe01&label=Profile%20views&color=092E20&style=for-the-badge&logo=star" alt="nashe01" />
 </div>
+
 
 
 <h1 align="center">
