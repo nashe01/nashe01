@@ -1,12 +1,13 @@
 <div align="center">  
-  <!-- Committer Badge -->
-  <a href="https://user-badge.committers.top/zimbabwe_public/nashe01" target="_blank">
-    <img src="https://img.shields.io/badge/🏆_Top_Committer_In_Zimbabwe-green?style=for-the-badge&labelColor=092E20&color=092E20" alt="Top Committer Zimbabwe Badge"/>
+  <!-- Dynamic link to your live rank -->
+  <a href="https://committers.top/zimbabwe_public/nashe01" target="_blank">
+    <img src="https://user-badge.committers.top/zimbabwe_public/nashe01.svg?v=2" alt="Top Committer Zimbabwe Badge" style="background-color:#50FA7B; border-radius:6px;" />
   </a>
 
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=nashe01&label=Profile%20views&color=092E20&style=for-the-badge&logo=star" alt="nashe01" />
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=nashe01&label=Profile%20views&color=50FA7B&style=for-the-badge&logo=star" alt="nashe01" />
 </div>
+
 
 
 
