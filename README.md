@@ -1,5 +1,4 @@
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/nashe01.svg)](https://committers.top/zimbabwe_public/nashe01)
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/nashe01.svg)](https://committers.top/zimbabwe_public/nashe01)
 
 
 
