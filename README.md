@@ -46,20 +46,13 @@
 - 🌐 **API Development**: Experienced in building and integrating RESTful APIs to enhance application functionality.
 
 <hr/>
-const wilson = {
-  location: "Zimbabwe",
-  role: "Software Engineer & Tech Innovator",
-  specialities: ["Mobile Development", "Web Development", "AI/ML", "AR/XR"],
-  mission: "Building futuristic applications that redefine digital experiences",
-  expertise: {
-    frontend: ["Flutter", "React", "NextJs", "VueJs", "TypeScript", "HTML/CSS", "Tailwind"],
-    backend: ["Node.js", "Express.js", "FastAPI", "Laravel", "Flask", "Spring Boot"],
-    ai: ["TensorFlow", "PyTorch", "OpenAI APIs", "On-device ML"],
-    cloud: ["AWS", "Firebase", "Docker", "Supabase"],
-    geo: ["Google Maps", "MapBox", "ARCore", "Geospatial APIs"]
-  },
-  Currently Learning: ["Edge ML", "Web3", "Advanced XR Development"]
-};
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img align="right" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
+  </picture>
+</div>
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
 <br/>
 <div align="center">
