@@ -23,7 +23,7 @@
 <hr/>
 
 ## 👨‍💻 About Me
-🌟I’m a passionate full-stack Software Developer with a First-Class Bachelor of Science degree in Information and Technology. I’ve gained hands-on experience through internships at OK Zimbabwe (Flutter Developer) and ZimParks, where I played an active role in developing and enhancing mobile applications and websites. This experience significantly strengthened my proficiency in cross-platform development and provided hands-on exposure to agile methodologies and real-time debugging in live production environments.
+Software Developer with a First-Class Bachelor of Science degree in Information and Technology. I’ve gained hands-on experience through internships at OK Zimbabwe (Flutter Developer) and ZimParks, where I played an active role in developing and enhancing mobile applications and websites. This experience significantly strengthened my proficiency in cross-platform development and provided hands-on exposure to agile methodologies and real-time debugging in live production environments.
 
 
 ## 🛠️ Skills & Expertise
