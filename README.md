@@ -22,23 +22,6 @@
 
 <hr/>
 
-## 👨‍💻 About Me
-Software Developer with a First-Class Bachelor of Science degree in Information and Technology. I’ve gained hands-on experience through internships at OK Zimbabwe (Flutter Developer) and ZimParks, where I played an active role in developing and enhancing mobile applications and websites. This experience significantly strengthened my proficiency in cross-platform development and provided hands-on exposure to agile methodologies and real-time debugging in live production environments.
-
-
-## 🛠️ Skills & Expertise
-- 💻 **Frontend Development**: React.js, Tailwind CSS, Vite
-
-     **Backend & APIs**: Laravel, Node.js
-
-     **Mobile Apps**: Flutter
-
-     **AI Integration**: GPT, LangChain, DeepSeek, NLP-powered quiz systems
-
-     **Databases**: MySQL and PostgreSQL
-
-- ⚙️ **Software Engineering**: Strong understanding of software design principles, agile methodologies, and version control with Git.
-- 🌐 **API Development**: Experienced in building and integrating RESTful APIs to enhance application functionality.
 
 <hr/>
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
