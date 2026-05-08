@@ -42,27 +42,10 @@
 </div>
 <div align="left">
 ## 📬 Contact
-I’m always open to networking and collaboration opportunities. You can reach me through:
-
 - WhatsApp: [BlessingPanashe](https://wa.me/263714575733)
 - Instagram: [@bleesing](https://instagram.com/slow_liearner_27)
 - LinkedIn: [Blessing P Mupindu](https://www.linkedin.com/in/Blessing-Mupindu)
 - Email: [mupindu021@gmail.com](mailto:mupindu021@gmail.com)
-
-<hr/>
-
-## 🎯 What I’m Looking For
-1. 👥 **Networking**: Connecting with fellow developers and tech professionals to share insights and experiences.
-2. 🤝 **Collaboration**: Excited to collaborate on web development projects that challenge my skills and foster innovation.
-3. 💼 **Career Opportunities**: Actively seeking roles in software engineering and web development within dynamic teams.
-4. 📈 **Continuous Learning**: Committed to staying current with advancements in software engineering, web development, and emerging tech trends.
-
-<hr/>
-
-## 🎮 Hobbies & Interests
-- 📚 **Reading**: Enjoy exploring books on technology, software architecture, and personal development.
-- 🎮 **Gaming**: Avid gamer who appreciates game design and development.
-- 🌍 **Traveling**: Love to explore new places and cultures, often finding inspiration for creative projects.
 
 <hr/>
 <div align="center">
